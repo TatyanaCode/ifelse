@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author tatyana.danilova 03.12.2022 18:54
- * В двухзначное число вписать ноль в середину и получитьтрехзначное число
+ * В двухзначное число вписать ноль в середину и получить трехзначное число
  */
 public class LaboratoryFourth {
     public static void main(String[] args) {

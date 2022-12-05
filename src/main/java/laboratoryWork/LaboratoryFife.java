@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author tatyana.danilova 03.12.2022 21:06
- * Даноцелое число  26>n>1 Вывести прописные заглавныебуквы латинскогоалфавита
+ * Даноцелое число  26>n>1 Вывести прописные заглавныебуквы латинского алфавита
  */
 public class LaboratoryFife {
     public static void main(String[] args) {
